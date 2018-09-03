@@ -1,0 +1,10 @@
+Log created: 2018-09-01T11:23:10.527838000Z
+Executable: /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: jenkins_default_1535800911483_65745
+Arg[3]: --startvm
+Arg[4]: fcda70b6-9554-49c3-b7e0-5abfbe386e89
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
